@@ -20,7 +20,7 @@
     <img src="https://img.shields.io/badge/leetcode-grey?style=for-the-badge&logo=leetcode&logoColor=yellow" alt="Twitter Badge"/>
   </a>
   <a href="https://leetcode.com/_9274/">
-    <img src="https://img.shields.io/badge/leetcode-grey?style=for-the-badge&logo=leetcode&logoColor=yellow" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/gfg-green?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
 
@@ -93,11 +93,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :fire: My Stats :
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yashdev9274&layout=compact&theme=vision-friendly-dark)](https://github.com/yashdev9274/github-readme-stats)
 
 
 
